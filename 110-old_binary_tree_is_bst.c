@@ -119,3 +119,4 @@ int is_bst_helper(const binary_tree_t *tree, int *largest)
 	return (ret);
 }
 #endif /* VERBOSE */
+
